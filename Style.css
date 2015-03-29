@@ -1,0 +1,46 @@
+body{
+	background:  linear-gradient(to bottom, rgba(0,0,0,.25), rgba(0,0,0,.25)), url("https://static5.easyworship.com/previews/images/thumbnails/37265.jpg");
+	background-size: cover;
+}
+
+#site-name{
+	font-family: AR CHRISTY;
+	color: white;
+}
+
+#Iron-Mike {
+	width:300px;
+	height:auto;
+	border-radius: 100%;
+	border:10px dashed #00FBFF;
+}
+
+#hoverthat{
+	opacity:1;
+	font-family: Comic sans ms;
+	color:black;
+}
+#hoverthat:hover {
+	opacity:.5;
+	color:orange;
+}
+
+a{color:black;
+	font-family: Comic sans ms;
+}
+
+#Pictures{
+	display: inline-block;
+	float: left;
+}
+
+#Content{
+	display:inline-block;
+	float: left;
+	padding: 10px;
+	margin: 10px;
+	height:500px;
+	width:500px;
+	background-color:white;
+	opacity: .25;
+}
